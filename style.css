@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.landing
+{
+ background-image: url(https://res.cloudinary.com/enchanting/q_70,f_auto,w_870,h_580,c_lfill,g_auto/exodus-web/2021/12/shutterstock_1602875998_st_sunday_crag.jpg) ;
+
+ background-attachment: fixed;
+ height: 100vh;
+ width: 100%;
+ background-size: cover;
+ background-position: center;
+ margin: 0px;
+ border: 0px;
+ padding: 0px;
+ position: relative;
+}
+
+.navs{
+    background-color: rgba(0, 0, 0, 0);
+     
+} 
+
+#nav1s
+{
+     margin-left: 40%;
+}
+
+.trav{
+  padding-left: 30rem;
+  padding-top: 100px;
+  color: aliceblue;
+  
+}
+.tr{
+   font-size: 100px;
+   
+}
+
+.ta{
+   font-family: "Grey Qo", cursive;
+}
+
+
+ .cntbutton
+ {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+ }
+
+ .honey{
+    width: 100%;
+    height: 250px;
+ }
+
+ .hon1{
+   height: 550px;
+ }
+
+  #festimg
+  {
+
+height: 400px;
+
+  }
+
+
+
+  
+
+ #bordnorth{
+    border: 1px solid rgb(21, 20, 21);
+    border-radius: 25px;
+    margin-left: 80px;
+    height: 250px;
+    width: 150px;
+    
+ }
+
+
+ .north{
+   width: 100%;
+   border-radius: 25px;
+   margin-top: 4px;
+   height: 230px;
+   
+}
+
+ 
+
+
+
+  
+ 
+ .prem{
+    border: 2px solid pink;
+    border-radius: 130px;
+    width: 200px;
+ }
+  #bordprem{
+    border: 1px solid;
+    border-radius: 10%;
+    height: 300px;
+     margin-left: 22px;
+     background-color: antiquewhite;
+     
+
+     
+ }
+
+ .feat
+ {
+   font-family: "Grey Qo", cursive;
+
+   color: palevioletred;
+   font-size: 35px;
+ }
+
+ .line1
+ {
+    text-decoration: none;
+ }
+  
+ .txt{
+    font-weight: 600;
+ }
+ .checked
+ {
+    color: orange;
+ }
+
+ .cust{
+   font-family: "Grey Qo", cursive;
+   font-weight: 800;
+ }
+
+
+ footer{
+    margin: 70px;
+    background-color:  rgb(22, 22, 125);
+    color: aliceblue;
+ }
+ .fot{
+    border-radius: 50%;
+    
+ }
+
+ .font
+ {
+   width: 50px;
+   font-size: xx-large;
+ }
+
+
+ 
